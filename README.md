@@ -70,10 +70,12 @@ Geliştirilen modeller, eksik veri yönetimi, ölçekleme, encoding, modelleme v
 ### Kategorik Değişken Dağılımı:
 
 * REASON:
+
   ![image](https://github.com/user-attachments/assets/41b109b7-8713-4b95-b373-129b5fae8ccb)
 
 
 * JOB:
+
   ![image](https://github.com/user-attachments/assets/9b0e13d6-c518-46be-87e3-589f7fa3bdc9)
 
 
@@ -84,40 +86,48 @@ Geliştirilen modeller, eksik veri yönetimi, ölçekleme, encoding, modelleme v
 ### Logistic Regression
 
 * ROC Eğrisi:
+
   ![image](https://github.com/user-attachments/assets/5d3bb4f4-900b-4a35-80e5-1300ee72ae8c)
 
 
 * Confusion Matrix:
+
   ![image](https://github.com/user-attachments/assets/f305120e-14fd-4b2c-819a-274e006fd296)
 
 
 ### Random Forest
 
 * ROC Eğrisi:
+
   ![image](https://github.com/user-attachments/assets/88c3dcab-95f6-46ef-b6e9-c56bb4069e5b)
 
 
 * Confusion Matrix:
+
   ![image](https://github.com/user-attachments/assets/f762630d-4ec1-4285-932a-f96a990cf308)
 
 
 ### XGBoost (Base)
 
 * ROC Eğrisi:
+
   ![image](https://github.com/user-attachments/assets/cd3c749d-1200-49ad-a36b-b55ee8dc1880)
 
 
 * Confusion Matrix:
+
   ![image](https://github.com/user-attachments/assets/2726e064-769f-41e0-8ccf-18a431bfb4ad)
 
 
 ### XGBoost (RandomizedSearchCV)
 
 * ROC Eğrisi:
+
   ![image](https://github.com/user-attachments/assets/844fcc6c-f93d-484b-8089-3e187301fc97)
 
 
 * Confusion Matrix:
+
   ![image](https://github.com/user-attachments/assets/eadeb358-330c-405d-a531-30187a6c1e57)
 
 
