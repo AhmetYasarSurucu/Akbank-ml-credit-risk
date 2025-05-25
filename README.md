@@ -4,8 +4,11 @@ Bu proje, **HMEQ veri seti** üzerinden kredi başvurusunda bulunan müşteriler
 
 Geliştirilen modeller, eksik veri yönetimi, ölçekleme, encoding, modelleme ve hiperparametre optimizasyonu adımlarıyla desteklenmiştir. Ayrıca, KMeans ile gözetimsiz müşteri segmentasyonu yapılmıştır. En başarılı model olarak **XGBoost (RandomizedSearchCV)** belirlenmiştir.
 
-🔗 **Notebook (Kaggle'da Görüntüle):**  
-📎 [Credit Risk & Customer Clustering - HMEQ (Kaggle)](https://www.kaggle.com/code/ahmetsrc/credit-risk-customer-clustering-hmeq)
+## 📌 İnteraktif Notebook (Kaggle'da Çalıştır)
+
+[![Kaggle](https://img.shields.io/badge/Notebook-Kaggle-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/ahmetsrc/credit-risk-customer-clustering-hmeq)
+
+🔗 [Credit Risk & Customer Clustering – HMEQ (Kaggle)](https://www.kaggle.com/code/ahmetsrc/credit-risk-customer-clustering-hmeq)
 
 ---
 
