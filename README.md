@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="images/akbank_logo.png" alt="Akbank Logo" width="200"/>
-</p>
-
 # 💳 Credit Risk Prediction & Customer Segmentation – Akbank ML Bootcamp
 
 Bu proje, **HMEQ veri seti** üzerinden kredi başvurusunda bulunan müşterilerin **geri ödeme yapıp yapmayacağını tahmin etmek** ve **müşteri segmentasyonu gerçekleştirmek** amacıyla hazırlanmıştır.
