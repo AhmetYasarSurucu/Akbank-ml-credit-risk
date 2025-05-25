@@ -175,5 +175,8 @@ Geliştirilen modeller, eksik veri yönetimi, ölçekleme, encoding, modelleme v
 
 ## 👤 Geliştirici
 
-**Ahmet Yaşar Sürücü**
-Akbank ML Bootcamp – 2025
+**Ahmet Yaşar Sürücü**  
+Akbank ML Bootcamp – 2025  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmetyasarsurucu/)
+
